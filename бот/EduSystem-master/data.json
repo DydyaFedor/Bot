@@ -1,0 +1,53 @@
+[
+    {
+        "question": "McLaren F1",
+        "answers": [
+            [
+                "Суперкар",
+                false
+            ],
+            [
+                "Джип",
+                false
+            ],
+            [
+                "Спорткар",
+                true
+            ]
+        ]
+    },
+    {
+        "question": "Какая мощность у Bugatti Chiron?",
+        "answers": [
+            [
+                "720 л.с",
+                false
+            ],
+            [
+                "1500 л.с",
+                true
+            ],
+            [
+                "840 л.с",
+                false
+            ]
+        ]
+    },
+    {
+        "question": "В каком году сошёл с конвейра Ford Mustang?",
+        "answers": [
+            [
+                "1969",
+                false
+            ],
+            [
+                "1964",
+                true
+            ],
+            [
+                "1955",
+                false
+            ]
+        ]
+    }
+]
